@@ -1,15 +1,8 @@
-/*
-
-exercício no beecrowd:
-https://judge.beecrowd.com/pt/problems/view/1004
-
-*/
-
-package iniciante;
+package iniciante.exercicio1004;
 
 import java.util.Scanner;
 
-public class exercicio_1004 {
+public class res1004 {
 	
 	public static void main(String[] args) {
 		
